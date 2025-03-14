@@ -13,5 +13,5 @@
 
 ---
 ### Model Architecture ###
-![model]()
+![model](https://github.com/linghs/MDT_LLaMA3/blob/main/image.png)
 ---
